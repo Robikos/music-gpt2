@@ -2,9 +2,8 @@ Lyrics_*.json
 .datalyrics.json
 .env
 
-gpt-2/
-!gpt-2/.gitkeep
 data/
-!data/.gitkeep
+gpt-2/
 models/
-!models/.gitkeep
+
+!/**/.gitkeep
