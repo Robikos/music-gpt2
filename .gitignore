@@ -5,5 +5,3 @@ Lyrics_*.json
 data/
 gpt-2/
 models/
-
-!/**/.gitkeep
